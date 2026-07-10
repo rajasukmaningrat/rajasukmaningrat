@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="img/github-header-banner.png"/>
 
 ---
